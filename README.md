@@ -2,6 +2,7 @@
 
 **Authors:** Marcelo Augusto Santos Turine, Solange Oliveira Rezende, Flávia Cristina Bernardini, Marcos Paulo Silva Gôlo, and Ricardo Marcondes Marcacini.
 
+
 ## Abstract
 
 
@@ -55,8 +56,8 @@ The two `df_mapeamento_titulados_*_filtrado.csv` files retain the following **ni
 | --- | --- | --- |
 | [formandos_por_uf_2023.csv](formandos_por_uf_2023.csv) | Distinct graduates associated with AI-related themes in 2023, by state, region, and degree (master's/PhD), including regional totals. | **RQ2**, **Section 6.3**, **Figure 5**. |
 | [formandos_por_uf_2024.csv](formandos_por_uf_2024.csv) | Equivalent geographic and degree-level summary for 2024. | **RQ2**, **Section 6.3**, **Figure 6**. |
-| [programas_Computacao_2023.csv](programas_Computacao_2023.csv) | Metadata for graduate programs categorized under Computer Science in the 2023 program data. | **RQ3**, **Section 6.3**, **Table 3**; program identification for comparing Computer Science with other areas. |
-| [programas_Computacao_2024.csv](programas_Computacao_2024.csv) | Equivalent Computer Science graduate-program metadata for 2024. | **RQ3**, **Section 6.3**, **Table 3**. |
+| [programas_Computacao_2023.csv](programas_Computacao_2023.csv) | Graduate-program name, CAPES program code, evaluation area, and institution acronym for Computer Science programs in 2023. | **RQ3**, **Section 6.3**, **Table 3**; program identification for comparing Computer Science with other areas. |
+| [programas_Computacao_2024.csv](programas_Computacao_2024.csv) | Equivalent four-field Computer Science graduate-program listing for 2024. | **RQ3**, **Section 6.3**, **Table 3**. |
 | [grandes_areas_grau_2023.csv](grandes_areas_grau_2023.csv) | AI-related graduates by major knowledge area and degree, plus the number of graduate programs, for 2023. | **RQ4**, **Section 6.3**, **Table 4**. |
 | [grandes_areas_grau_2024.csv](grandes_areas_grau_2024.csv) | Equivalent summary by knowledge area and degree for 2024. | **RQ4**, **Section 6.3**, **Table 4**. |
 | [tabela_crosstab_uf_tema.csv](tabela_crosstab_uf_tema.csv) | Number of distinct graduates for each strategic theme × graduate's state, constructed from retained High/Medium mappings across 2023–2024. | Supplementary thematic/territorial cross-tabulation supporting **RQ1–RQ2**, **Section 6.2**. |
